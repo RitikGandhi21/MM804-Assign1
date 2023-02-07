@@ -1,19 +1,4 @@
-### Assignment 1
-Language: Python3
-
-library: vtk
-
-3D Model downloaded from thingiverse
-
-### File Information : 
-
-Name: goku_ss.stl
-
-Size: 1.2 MB
-
-Type: STL
-
-Vertex Count :  
+ 
 
 ### Setup on windows/Mac OCX/ Linux
 1. Install Python3
